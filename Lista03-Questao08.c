@@ -1,6 +1,6 @@
 
 /*
-** Função : 
+** Função : TAD novo
 ** Autor : Thiago Henrique Paiva de Sousa
 ** Data : 05/06/2024
 ** Observações:
