@@ -1,6 +1,7 @@
 
 /*
-** Função : 
+** Função : Implementar função que classifica os elementos de um vetor em ordem crescente
+usando o algoritmo “quicksort”
 ** Autor : Thiago Henrique Paiva de Sousa
 ** Data : 05/06/2024
 ** Observações:
