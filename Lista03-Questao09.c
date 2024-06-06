@@ -1,6 +1,7 @@
 
 /*
-** Função : 
+** Função : Função para ordenar elementos de um vetor
+usando o "método BubbleSort" 
 ** Autor : Thiago Henrique Paiva de Sousa
 ** Data : 05/06/2024
 ** Observações:
